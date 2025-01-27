@@ -25,8 +25,8 @@ Control your system volume with hand gestures using computer vision technology. 
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/gesture-volume-control.git
-cd gesture-volume-control
+git clone https://github.com/ChaseVanacora/HandVolume.git
+cd HandVolume
 ```
 
 2. Install required dependencies:
